@@ -1,0 +1,19 @@
+.Todo {
+    text-align: center;
+    margin-left: 0px;
+    
+}
+
+.aligned{
+    display: flex;
+    align-items: right;
+}
+
+.done{
+    text-decoration: line-through;
+    /* font-size: xx-small; */
+}
+
+.noCheckdone1{
+    margin-left: 25px;
+}
